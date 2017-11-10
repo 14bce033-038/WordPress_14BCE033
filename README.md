@@ -7,5 +7,5 @@ Coder’s Cookbook
 
 Following are the screenshots of My Blog.
 
-![Alt text](https://github.com/14bce033-038/WordPress_14BCE033/blob/master/Home.png "Home Page")
-![Alt text](https://github.com/14bce033-038/WordPress_14BCE033/blob/master/Post.png "One of the Posts")
+![Alt text](https://github.com/14bce033-038/WordPress_14BCE033/blob/master/Home_new.png "Home Page")
+![Alt text](https://github.com/14bce033-038/WordPress_14BCE033/blob/master/Post_new.png "One of the Posts")
